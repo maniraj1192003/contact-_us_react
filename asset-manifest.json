@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maniraj1192003/contact-_us_react/static/css/main.4e3a4662.css",
+    "main.js": "/maniraj1192003/contact-_us_react/static/js/main.a91d8f11.js",
+    "static/js/787.16f177e3.chunk.js": "/maniraj1192003/contact-_us_react/static/js/787.16f177e3.chunk.js",
+    "index.html": "/maniraj1192003/contact-_us_react/index.html",
+    "main.4e3a4662.css.map": "/maniraj1192003/contact-_us_react/static/css/main.4e3a4662.css.map",
+    "main.a91d8f11.js.map": "/maniraj1192003/contact-_us_react/static/js/main.a91d8f11.js.map",
+    "787.16f177e3.chunk.js.map": "/maniraj1192003/contact-_us_react/static/js/787.16f177e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e3a4662.css",
+    "static/js/main.a91d8f11.js"
+  ]
+}
